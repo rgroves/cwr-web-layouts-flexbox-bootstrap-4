@@ -54,6 +54,10 @@
   width: 20% !important;
 }
 
+.testRow {
+  height: 200px;
+}
+
 /*Responsive code*/
 
 @media (min-width: 576px) {
